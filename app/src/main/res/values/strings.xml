@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Nnadi Charles</string>
+    <string name="my_bio">Hello, my name is Nnadi Charles, and i\'m a mobile application developer.
+    \n\nMy mission is to work in a top software company like Google, Amazon or Microsoft.
+    I studied computer science and statistics in the University of Nigeria, Nsukka which is one of the best
+    University in Nigeria as of the time of writing this article. I love playing football and also
+        listening to music as well. This app <u><i>My Bio</i></u>, is my second mobile application which i learned
+    using udemy teaching course. I believe in myself and hope for better tomorrow.
+    I have a wonderful family who support me as well. Thank you so much for being here for me at this presence time.</string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done">Done</string>
+    <string name="image_description">Android robot image</string>
+</resources>
